@@ -1,5 +1,5 @@
 
-
+this app is based on python  and flask ,you can download first 10 youtube trending clips based on your location
 
 
 
