@@ -1,0 +1,30 @@
+body {
+    background-color: #36454F;
+}
+
+
+.pos {
+    margin-left: 100px;
+}
+
+
+.pos-1 {
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size: 40px;
+    color: #ebecf0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.pos-2 {
+    margin-left: 250px;
+    margin-top: -30px;
+    margin-bottom: 25px;
+    font-size: 40px;
+    color: #ebecf0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+

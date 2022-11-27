@@ -1,0 +1,23 @@
+    ---------------------------------------------------------------------------------------------
+    How the app works
+    ---------------------------------------------------------------------------------------------
+
+    1.in  "__init__.py" , "app.config['UPLOAD_FILE']"  you should designate the tagert directory
+        that, you want to save your files
+        example: app.config["CLIENT_FILE"] ='C:/Users/"yourname"/Desktop/Giveaway-webapp-final/giveaway/static/cxcel_file'
+
+    2.in this app you need to use safe VPN and good internet connection.
+
+    App configs:
+    ---------------------------------------------------------------------------------------------
+    1.After 10 hours the whole app will reset itself and you would have new videos and clips.
+
+    2.After 7 hours compressed files will be deleted from database.
+
+    *Notic:
+        You could Download 90% of videos and clips on youtube using this web-app some videos could be downloaded
+        and will show up in your directory but could not be stored in database duo to internal conflict,
+        If you want the original(.mp4 format) one/s ,comment out lines "58" and "59" in "routes.py" directory
+
+
+    Enjoy!
